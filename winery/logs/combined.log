@@ -1,0 +1,75 @@
+[2020-09-19 14:55:41.5541] INFO: Connected to mongodb://localhost:27017/ Donate
+[2020-09-19 14:55:41.5541] DEBUG: Server started
+[2020-09-19 14:55:41.5541] INFO: DonirajKrv API Server listening at http://[::]:5000
+[2020-09-19 14:55:52.5552] INFO: Connected to mongodb://localhost:27017/ Donate
+[2020-09-19 14:55:52.5552] DEBUG: Server started
+[2020-09-19 14:55:52.5552] INFO: DonirajKrv API Server listening at http://[::]:5000
+[2020-09-19 14:56:04.564] INFO: Connected to mongodb://localhost:27017/ Donate
+[2020-09-19 14:56:04.564] DEBUG: Server started
+[2020-09-19 14:56:04.564] INFO: DonirajKrv API Server listening at http://[::]:5000
+[2020-09-19 14:56:40.5640] INFO: Connected to mongodb://localhost:27017/ Donate
+[2020-09-19 14:56:40.5640] DEBUG: Server started
+[2020-09-19 14:56:40.5640] INFO: DonirajKrv API Server listening at http://[::]:5000
+[2020-09-19 17:21:59.2159] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:21:59.2159] DEBUG: Server started
+[2020-09-19 17:21:59.2159] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 17:22:10.2210] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:22:10.2210] DEBUG: Server started
+[2020-09-19 17:22:10.2210] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 17:22:58.2258] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:22:58.2258] DEBUG: Server started
+[2020-09-19 17:22:58.2258] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 17:31:04.314] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:31:04.314] DEBUG: Server started
+[2020-09-19 17:31:04.314] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 17:47:25.4725] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:47:25.4725] DEBUG: Server started
+[2020-09-19 17:47:25.4725] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 17:48:40.4840] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:48:40.4840] DEBUG: Server started
+[2020-09-19 17:48:40.4840] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 17:58:25.5825] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:58:25.5825] DEBUG: Server started
+[2020-09-19 17:58:25.5825] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 17:58:35.5835] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:58:35.5835] DEBUG: Server started
+[2020-09-19 17:58:35.5835] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 17:59:09.599] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 17:59:09.599] DEBUG: Server started
+[2020-09-19 17:59:09.599] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:02:22.222] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:02:22.222] DEBUG: Server started
+[2020-09-19 18:02:22.222] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:04:42.442] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:04:42.442] DEBUG: Server started
+[2020-09-19 18:04:42.442] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:04:45.445] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:04:45.445] DEBUG: Server started
+[2020-09-19 18:04:45.445] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:05:17.517] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:05:17.517] DEBUG: Server started
+[2020-09-19 18:05:17.517] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:05:30.530] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:05:30.530] DEBUG: Server started
+[2020-09-19 18:05:30.530] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:05:42.542] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:05:42.542] DEBUG: Server started
+[2020-09-19 18:05:42.542] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:06:38.638] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:06:38.638] DEBUG: Server started
+[2020-09-19 18:06:38.638] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:06:56.656] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:06:56.656] DEBUG: Server started
+[2020-09-19 18:06:56.656] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:07:01.71] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:07:01.71] DEBUG: Server started
+[2020-09-19 18:07:01.71] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:07:10.710] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:07:10.710] DEBUG: Server started
+[2020-09-19 18:07:10.710] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:07:56.756] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:07:56.756] DEBUG: Server started
+[2020-09-19 18:07:56.756] INFO: Winery API Server listening at http://[::]:5000
+[2020-09-19 18:08:33.833] INFO: Connected to mongodb://localhost:27017/ Winery
+[2020-09-19 18:08:33.833] DEBUG: Server started
+[2020-09-19 18:08:33.833] INFO: Winery API Server listening at http://[::]:5000
